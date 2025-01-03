@@ -1,6 +1,9 @@
 # AMAZON CLONE
 
-![Screenshot (15)](https://github.com/user-attachments/assets/d906018a-65e7-425e-a766-9d0392e7a160)
+![Screenshot (15)](https://github.com/user-attachments/assets/a87958e0-4a8e-464e-a048-4434d4cfc4de)
+![Screenshot (18)](https://github.com/user-attachments/assets/c0822fe4-ed1b-470e-8483-3791ec55a81e)
+![Screenshot (19)](https://github.com/user-attachments/assets/feef518f-d626-4fcd-b9a3-a5a92e3e0726)
+
 
 
 # Getting Started with Create React App
